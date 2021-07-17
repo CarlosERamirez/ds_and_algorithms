@@ -1,0 +1,5 @@
+Check this course first:
+https://www.udacity.com/course/introduction-to-python--ud1110 (estimaded time to complete: 1-3 weeks)
+
+Contents on course https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256:
+Videos:
